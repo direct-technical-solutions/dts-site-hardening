@@ -2,8 +2,9 @@
 
 A WordPress plugin that sends a Content-Security-Policy and the other security headers on visitor
 pages (HSTS on HTTPS), refuses XML-RPC, turns Application Passwords off, hides version comments,
-WordPress's version and the PHP version, and keeps unfiltered HTML for Administrators only. It
-names no site and can be used by any site that wants it. Requires WordPress 7.0 and PHP 8.4.
+WordPress's version and the PHP version, removes WordPress's emoji script, and keeps unfiltered
+HTML for Administrators only. It names no site and can be used by any site that wants it.
+Requires WordPress 7.0 and PHP 8.4.
 
 ## Using it in a site
 
